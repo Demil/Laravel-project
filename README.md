@@ -1,2 +1,2 @@
 # Laravel-project
-This is PHP Laravelproject 
+This is PHP Laravel project 
